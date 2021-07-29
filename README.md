@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @music-discussion
+- 👀 I’m interested in Modding FNF
+- 🌱 I’m currently learning haxe
+- 💞️ I’m looking to collaborate on a mod called VS Bug.
+- 📫 How to reach me? Search Discussions on GameBanana.
